@@ -16,4 +16,4 @@ Codes for the paper Prompt-Guided Domain Generalization for EEG  Emotion Recogni
 * Pipeline of the PGDG: main_1_2_3.py
 
 # Usage
-* After modify setting (path, etc), just run the main function in the main_1_2_3.py
+* After modify setting (path, etc), just "python main_1_2_3.py"
